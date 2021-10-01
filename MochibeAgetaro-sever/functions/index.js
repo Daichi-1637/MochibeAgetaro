@@ -2,7 +2,7 @@ const {conversation} = require("@assistant/conversation");
 const functions = require("firebase-functions");
 const admin = require("firebase-admin");
 admin.initializeApp();
-const client = require("../clientid");
+const client = require("./clientid");
 
 const CLIENT_ID = client.id;
 
