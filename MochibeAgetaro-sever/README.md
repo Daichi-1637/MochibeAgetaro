@@ -1,5 +1,5 @@
 # MochibeAgetaro-sever
-モチベアゲ太郎(Google Home)のプログラムソースリスト
+帽子型専用デバイスのプログラムソースリスト
 
 ## Preparation before run
 以下のファイルを作成しておいてください.
