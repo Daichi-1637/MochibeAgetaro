@@ -1,5 +1,5 @@
 # mochibeagetaro-web
-webシステムのプログラムソースリスト  
+webアプリのプログラムソースリスト  
 
 ### Preparation before run
 以下のファイルを作成しておいてください.
