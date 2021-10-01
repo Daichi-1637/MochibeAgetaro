@@ -4,7 +4,7 @@
 ## Preparation before run
 以下のファイルを作成しておいてください.
 
-`MotibeAgetaro-server/clietid.js`  
+`MotibeAgetaro-server/functions/clietid.js`  
 ```javascript
 exports.module={
   id: /* your google client id */,
