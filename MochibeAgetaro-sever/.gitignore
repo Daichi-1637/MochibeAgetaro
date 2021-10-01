@@ -109,4 +109,4 @@ package-lock.json
 yarn.lock
 .firebase
 *.log
-clientid.js
+./functions/clientid.js
