@@ -1,5 +1,5 @@
 # MochibeAgetaro-web-to-server
-webシステムのためのapiサーバのプログラムソースリスト
+webアプリのためのapiサーバのプログラムソースリスト
 
 ## Project setup
 ```
