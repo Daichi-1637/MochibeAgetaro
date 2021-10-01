@@ -5,6 +5,6 @@
 
 |ファイル名|説明|  
 |:-:|:-:|  
-|MotibeAgetaro-server|モチベアゲ太郎(Google Home)のプログラムソースリスト|    
-|MotibeAgetaro-web-to-server|webシステムのためのapiサーバのプログラムソースリスト|  
-|MotibeAgetaro-web|webシステムのプログラムソースリスト|    
+|MotibeAgetaro-server|帽子型専用デバイスのプログラムソースリスト|    
+|MotibeAgetaro-web-to-server|webアプリのためのapiサーバのプログラムソースリスト|  
+|MotibeAgetaro-web|webアプリのプログラムソースリスト|    
