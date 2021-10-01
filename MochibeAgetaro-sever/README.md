@@ -1,6 +1,16 @@
 # MochibeAgetaro-sever
 モチベアゲ太郎(Google Home)のプログラムソースリスト
 
+## Preparation before run
+以下のファイルを作成しておいてください.
+
+`MotibeAgetaro-server/clietid.js`  
+```javascript
+exports.module={
+  id: /* your google client id */,
+}
+```  
+
 ## Project setup
 ```
 npm install
